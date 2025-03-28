@@ -10,9 +10,10 @@ function calcularRendimento() {
         return;
     }
 
-    // Definindo as taxas
+    // Novos valores de taxas podem ser ajustados conforme o feedback do usuário.
+ 
     const SELIC = 14.25; // Taxa Selic anual
-    const trBacen = 0.1709; // Taxa TR do Bacen
+    const trBacen = 0.1709; // taxa referencial
 
     // Calculando o tempo total em meses
     let tempoTotal = unidade === "mes" ? tempo : tempo * 12; // Convertendo para meses, se necessário
