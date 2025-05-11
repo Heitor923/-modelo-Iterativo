@@ -2,7 +2,7 @@
 # 📊 modelo-Iterativo
 
 Bem-vindo à **Calculadora de Rendimento feita com modelo-Iterativo**, um projeto simples de calculadora financeira feita com HTML, CSS e JavaScript  usando o modelo Iterativo. Essa aplicação permite simular o rendimento de uma poupança.
-🔗 [Acesse o projeto online](https://calculador-mu.vercel.app)
+
 
 ---
 
